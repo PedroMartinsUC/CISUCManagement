@@ -1,0 +1,12 @@
+Adaptive Computation, AC, Joaquim Alfredo#joaquimalfredo@gmail.com#D2.2#917634562
+Pedro Martins#pedromartins@uc.pt#Tese do Pedro#12/05/2021#Joaquim Alfredo-joaquimalfredo@gmail.com-D2.2-917634562
+Cognitive and Media Systems, CMS, Penousal Machado#penousalmachado@uc.pt#D3.5#917485237
+Joao Almeida#joaoalmeida@uc.pt#Tese do Joao#17/04/2022#Penousal Machado-penousalmachado@uc.pt-D3.5-917485237, Ana Boavida#anaboavida@uc.pt#D1.7#918566656
+Evolutionary and Complex Systems, ECOS, Nuno Lourenco#nunolourenco@uc.pt#D5.2#915648332
+Antonio Moreira#antoniomoreira@uc.pt#Tese do Antonio#15/01/2022#Nuno Lourenco-nunolourenco@uc.pt-D5.2-915648332
+Information Systems, IS, Licinio Roque#licinioroque@uc.pt#D3.1#918880076
+Vasco Lopes#vascolopes@uc.pt#Tese do Vasco#03/11/2021#Licinio Roque-licinioroque@uc.pt-D3.1-918880076
+Communications and Telematics, LCT, Paulo Simoes#paulosimoes@uc.pt#D1.2#917655221
+Alexandre Moreira#alexandremoreira@uc.pt#Tese do Alexandre#15/06/2021#Paulo Simoes-paulosimoes@uc.pt-D1.2-917655221
+Software and Systems Engineering, SSE, Henrique Madeira#henriquemadeira@uc.pt#D2.8#912775464
+Maria Lopes#marialopes@uc.pt#Tese da Maria#01/02/2021#Henrique Madeira-henriquemadeira@uc.pt-D2.8-912775464
