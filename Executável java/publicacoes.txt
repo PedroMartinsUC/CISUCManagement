@@ -1,0 +1,25 @@
+Using Deep Q-learning for Optimization of Aircraft Maintenance Scheduling, <key1>#<key2>, 2020, 350, Artigo de Conferencia, Resumo do Artigo 1, Pedro Martins#Vasco Lopes, Nome, 07/05/2020, Portuguese Conference on Pattern Recognition
+Glowing Lichen: Visually Sensing Social Spaces, <key1>#<key2>, 2020, 605, Artigo de Conferencia, Resumo do Artigo 2, Ana Boavida#Joao Almeida, Nome 2, 11/03/2020, 26th International International Symposium on Electronic Art (ISEA)
+Incremental Evolution and Development of Deep Artificial Neural Networks, <key1>#<key2>, 2020, 803, Artigo de Conferencia, Resumo do Artigo 3, Antonio Moreira, Nome 3, 07/11/2020, EuroGP2020
+Blockchain for Development: Preliminary Insights from a Literature Review, <key1>#<key2>, 2020, 178, Artigo de Conferencia, Resumo do Artigo 4, Alexandre Moreira#Pedro Martins, Nome 4, 05/12/2020, Americas Conference on Information Systems
+Clustering Geo-Indistinguishability for Privacy of Continuous Location Traces, <key1>#<key2>#<key3>, 2019, 564, Artigo de Conferencia, Resumo do Artigo 5, Vasco Lopes#Paulo Simoes, Nome 5, 25/04/2019, IEEE International Conference on Computing Communication and Security
+The circulant hash revisited, <key1>#<key2>#<key3>#<key4>, 2020, 457, Artigo de Revista, Resumo do Artigo 1, Henrique Madeira#Vasco Lopes, Nome 1, 18/01/2020, 1
+Automatic Classification of Adventitious Respiratory Sounds: A (Un)Solved Problem?, <key1>#<key2>, 2020, 1023, Artigo de Revista, Resumo do Artigo 2, Joaquim Alfredo#Joao Almeida, Nome 2, 06/04/2020, 57
+Application of clustering-based decision tree approach in SQL query error database, <key1>#<key2>#<key3>, 2019, 768, Artigo de Revista, Resumo do Artigo 3, Penousal Machado, Nome 3, 14/11/2019, 4
+Prediction in evolutionary algorithms for dynamic environments, <key1>#<key2>, 2014, 675, Artigo de Revista, Resumo do Artigo 4, Nuno Lourenco#Alexandre Moreira, Nome 4, 09/08/2014, 8
+Benchmarking Serverless Computing Platforms, <key1>, 2020, 762, Artigo de Revista, Resumo do Artigo 5, Licinio Roque#Pedro Martins#Antonio Moreira, Nome 5, 07/03/2020, 1
+Wireless Public Safety Networks, <key1>#<key2>#<key3>, 2017, 11563, Livro, Resumo do Livro 1, Paulo Simoes#Pedro Martins, ISTE Press - Elsevier, 79238746
+Wireless sensors in heterogeneous networked systems, <key1>, 2016, 7564, Livro, Resumo do Livro 2, Henrique Madeira#Ana Boavida, Springer, 87379376
+Desenvolvimento em Swift para iOS, <key1>#<key2>, 2017, 4956, Livro, Resumo do Livro 3, Joaquim Alfredo#Alexandre Moreira, FCA, 93453283
+Creativity and AI: A Conceptual Blending Approach, <key1>, 2007, 8437, Livro, Resumo do Livro 4, Penousal Machado#Vasco Lopes, Mouton de Gruyter - ACL, 87348912
+Programação em Python: fundamentos e resolução de problemas, <key1>#<key2>, 2015, 3485, Livro, Resumo do Livro 5, Nuno Lourenco, FCA, 76235383
+Internet of Things, <key1>#<key2>#<key3>#<key4>, 2019, 10543, Capitulo de Livro, Resumo do Livro 1, Licinio Roque#Antonio Moreira, Cyber Resilience of Systems and Networks, 78547875, Capitulo 16, 381, 401
+An Introduction to Mobile Device Security, <key1>, 2018, 9837, Capitulo de Livro, Resumo do Livro 2, Paulo Simoes#Pedro Martins, Mobile Apps Engineering, 83477466, Capitulo 2, 1, 34
+Commercial and Open Source Business Intelligence Platforms for Big Data Warehousing, <key1>#<key2>#<key3>, 2019, 9283, Capitulo de Livro, Resumo do Livro 3, Henrique Madeira#Vasco Lopes#Joao Almeida, Emerging Perspectives in Big Data Warehousing, 77746593, Capitulo 7, 158, 181
+Automatic Segmentation of Ultrasonic Vocalizations in Rodents, <key1>, 2019, 3453, Capitulo de Livro, Resumo do Livro 4, Joaquim Alfredo, IFMBE Proceedings, 09283782, Capitulo 16, 37, 46
+Neuroevolution of Generative Adversarial Networks, <key1>#<key2>, 2020, 16283, Capitulo de Livro, Resumo do Livro 5, Pedro Martins#Maria Lopes, Natural Computing Series, 35646434, Capitulo 11, 293, 322
+EuroGP: European Conference on Genetic Programming 2019, <key1>#<key2>#<key3>, 2019, 5634, Livro de Artigo de Conferencia, Resumo do Livro 1, Nuno Lourenco, EuroGP, 35237734, EuroGP, 1
+Digital Science, <key1>, 2019, 7836, Livro de Artigo de Conferencia, Resumo do Livro 2, Pedro Martins#Alexandre Moreira, ICEC, 13573464, ICEC, 2
+Proceedings of the 18th European Conference on Cyber Warfare and Security, <key1>#<key2>#<key3>#<key4>, 2019, 2245, Livro de Artigo de Conferencia, Resumo do Livro 3, Paulo Simoes, ECCWS, 38173932, ECCWS, 5
+Proceedings of the 7th International Conference on Data Science, <key1>, 2018, 6548, Livro de Artigo de Conferencia, Resumo do Livro 4, Antonio Moreira#Pedro Martins, DATA, 27479090, DATA, 3
+Pattern Recognition and Image Analysis, <key1>, 2019, 7938, Livro de Artigo de Conferencia, Resumo do Livro 5, Joaquim Alfredo, LNCS 11867, 37473085, Springer, 2
